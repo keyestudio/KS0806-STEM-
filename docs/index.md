@@ -377,7 +377,7 @@ Do operations according to the tutorials of the two development boards.
 
 #### 2. ESP32 Easy Coding Board
 
-[ESP32](ESP32/ESP32_Ocarina.md)
+<!--[ESP32](ESP32/ESP32_Ocarina.md)-->
 
 ------
 
