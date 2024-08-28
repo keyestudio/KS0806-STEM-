@@ -49,14 +49,6 @@ When we touch the area on the module (equivalent to pressing the button), the si
 
 #### Wiring Diagram 1
 
-<span style="color: rgb(2, 167, 240);">**NOTE:**</span>
-
-| Expansion board pin color | Wire color          | Module terminal |
-| ------------------------- | ------------------- | :-------------: |
-| ![e-b](img/e-b.png)       | ![p-b](img/p-b.png) | ![g](img/g.png) |
-| ![e-r](img/e-r.png)       | ![p-r](img/p-r.png) | ![v](img/v.png) |
-| ![e-y](img/e-y.png)       | ![p-y](img/p-y.png) | ![s](img/s.png) |
-
 ![1103](img/1103.png)
 
 ------
@@ -145,14 +137,6 @@ Release the button, and micro:bit displays a small heart.
 ---
 
 #### Wiring Diagram 2
-
-<span style="color: rgb(2, 167, 240);">**NOTE:**</span>
-
-| Expansion board pin color | Wire color          | Module terminal |
-| ------------------------- | ------------------- | :-------------: |
-| ![e-b](img/e-b.png)       | ![p-b](img/p-b.png) | ![g](img/g.png) |
-| ![e-r](img/e-r.png)       | ![p-r](img/p-r.png) | ![v](img/v.png) |
-| ![e-y](img/e-y.png)       | ![p-y](img/p-y.png) | ![s](img/s.png) |
 
 ![1116](img/1116.png)
 
@@ -273,14 +257,6 @@ Rotate the potentiometer on the sensor to adjust the magnification of the amplif
 ------
 
 #### Wiring Diagram
-
-<span style="color: rgb(2, 167, 240);">**NOTE:**</span>
-
-| Expansion board pin color | Wire color          | Module terminal |
-| ------------------------- | ------------------- | :-------------: |
-| ![e-b](img/e-b.png)       | ![p-b](img/p-b.png) | ![g](img/g.png) |
-| ![e-r](img/e-r.png)       | ![p-r](img/p-r.png) | ![v](img/v.png) |
-| ![e-y](img/e-y.png)       | ![p-y](img/p-y.png) | ![s](img/s.png) |
 
 ![1202](img/1202.png)
 
@@ -409,14 +385,6 @@ In the code, there are bolcks of seven notes. You can directly drag them to use.
 ---
 
 #### Wiring Diagram 
-
-<span style="color: rgb(2, 167, 240);">**NOTE:**</span>
-
-| Expansion board pin color | Wire color          | Module terminal |
-| ------------------------- | ------------------- | :-------------: |
-| ![e-b](img/e-b.png)       | ![p-b](img/p-b.png) | ![g](img/g.png) |
-| ![e-r](img/e-r.png)       | ![p-r](img/p-r.png) | ![v](img/v.png) |
-| ![e-y](img/e-y.png)       | ![p-y](img/p-y.png) | ![s](img/s.png) |
 
 ![1302](img/1302.png)
 

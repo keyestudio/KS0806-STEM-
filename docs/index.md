@@ -55,19 +55,19 @@ If you are interested in our products, please contact to our sales representativ
 
 |  #   |                   PIC                   |           NAME           | QTY  |
 | :--: | :-------------------------------------: | :----------------------: | :--: |
-|  1   |           ![img](img/q1.png)            |     Expansion board      |  1   |
-|  2   |        ![KS6013](img/KS6013.png)        | Capacitive Touch Sensor  |  4   |
-|  3   |        ![KS6011](img/KS6011.png)        |      Passive Buzzer      |  1   |
-|  4   |        ![KS6027](img/KS6027.png)        |       Sound Sensor       |  1   |
-|  5   |   ![3P_200mm(7)](img/3P_200mm(7).png)   |     3PIN DuPont wire     |  6   |
-|  6   |        ![M4_8MM](img/M4_8MM.png)        | M4*8MM round head screw  |  20  |
-|  7   |            ![M4](img/M4.png)            |          M4 nut          |  12  |
-|  8   |      ![M2.5_8MM](img/M2.5_8MM.png)      | M2.5*8MM flat head screw |  2   |
-|  9   |          ![m2.5](img/m2.5.png)          |         M2.5 nut         |  2   |
-|  10  | ![copper_pillar](img/copper_pillar.png) |  M4*20MM Copper Pillar   |  4   |
-|  11  |           ![dmb](img/dmb.png)           |         Basswood         |  4   |
-|  12  |           ![q12](img/q12.png)           |       Screwdriver        |  1   |
-|  12  |           ![img](img/q2.png)            |      Battery holder      |  1   |
+|  1   |            ![q1](img/q1.jpg)            |     Expansion board      |  1   |
+|  2   |        ![KS6013](img/KS6013.jpg)        | Capacitive Touch Sensor  |  4   |
+|  3   |        ![KS6011](img/KS6011.jpg)        |      Passive Buzzer      |  1   |
+|  4   |        ![KS6027](img/KS6027.jpg)        |       Sound Sensor       |  1   |
+|  5   |      ![3P_200mm](img/3P_200mm.jpg)      |     3PIN DuPont wire     |  6   |
+|  6   |        ![M4_8MM](img/M4_8MM.jpg)        | M4*8MM round head screw  |  20  |
+|  7   |            ![M4](img/M4.jpg)            |          M4 nut          |  12  |
+|  8   |      ![M2.5_8MM](img/M2.5_8MM.jpg)      | M2.5*8MM flat head screw |  2   |
+|  9   |          ![m2.5](img/m2.5.jpg)          |         M2.5 nut         |  2   |
+|  10  | ![copper_pillar](img/copper_pillar.jpg) |  M4*20MM Copper Pillar   |  4   |
+|  11  |           ![dmb](img/dmb.jpg)           |         Basswood         |  4   |
+|  12  |           ![q12](img/q12.jpg)           |       Screwdriver        |  1   |
+|  12  |            ![q2](img/q2.jpg)            |      Battery holder      |  1   |
 
 ------
 
@@ -77,7 +77,7 @@ If you are interested in our products, please contact to our sales representativ
 
 With bass wood as its structural material, we specially design an ocarina learning kit.
 
-This kit integrates 4 capacitive touch sensor, a sound sensor and a passive buzzer, which are compatible with micro:bit boards and ESP32 Easy Coding Boards. We write codes via Makecode and KidsBlock to play musics or to achieve more creative and interesting functions.
+This kit integrates 4 capacitive touch sensor, a sound sensor and a passive buzzer, which are compatible with micro:bit boards. We write codes via Makecode and KidsBlock to play musics or to achieve more creative and interesting functions.
 
 With this kit, you can master basic sensor knowledge and have an excellent opportunity to learn programming. Except for the composition of musics, it is also a perfect combination of learning and entertainment which stimulates your creativity and talent.
 
@@ -315,14 +315,6 @@ Push the board in the direction of the arrow to tighten it.
 
 ### step 6: Insert Main Control Board
 
-ESP32 Easy Coding Board:
-
-![](img/00_37.png)
-
-
-
-------
-
 Microbit:
 
 ![](img/00_38.png)
@@ -361,11 +353,11 @@ Microbit:
 
 Basic projects include development board introduction, programming methods, the ways of burning codes and the usage of sensors and modules. You will have a clear understanding on the board functions.
 
-<span style="color: rgb(112, 182, 3);">**If you are a beginner, please firstly read the introduction and using methods of development board (Micro:bit /ESP32Easy Coding Board) to learn how to program on software and how to upload code.**</span>
+<span style="color: rgb(112, 182, 3);">**If you are a beginner, please firstly read the introduction and using methods of development board to learn how to program on software and how to upload code.**</span>
 
 [Basic Courses:Microbit](./Microbit/Basic_Courses.md)
 
-<!--[Basic Courses:ESP32 Easy Coding Board](./ESP32/Basic_Courses.md)-->
+
 
 ### 2. Ocarina Projects
 
@@ -374,10 +366,6 @@ Do operations according to the tutorials of the two development boards.
 #### 1. Microbit
 
 [Micro:bit](Microbit/Microbit_Ocarina.md)
-
-#### 2. ESP32 Easy Coding Board
-
-<!--[ESP32](ESP32/ESP32_Ocarina.md)-->
 
 ------
 
