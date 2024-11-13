@@ -112,6 +112,12 @@ Click “Computer”  —> “Properties” —> “Device manager”:
 
 The following instructions are applied for Windows system but can also serve as a reference if you are using a different system.
 
+### Code Download
+
+Click to download code: https://fs.keyestudio.com/KS0806
+
+
+
 ### 3.1 Procedures
 
 This chapter describes how to write program and load the program to the Micro: Bit mainboard. Visit official website for more details: [https://microbit.org/guide/quick/](https://microbit.org/guide/quick/)
